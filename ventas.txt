@@ -1,0 +1,80 @@
+NRO_VENTA:1
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:2
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:3
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:4
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:5
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:1
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:1
+CLIENTE:Junior pacaya delgado
+DNI:72975680
+TELEFONO:90076020
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:1
+FECHA:31-09-12
+SEDE:smp
+ASESOR:Daniela ramos
+CLIENTE:Diego Leon
+DNI:12345678
+TELEFONO:901076890
+DIRECCION:los olivos calle dos
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:1
+IMPORTE_PAGAR:8787.5
+OBSEQUIO:Casco
+==========================================
+NRO_VENTA:1
+FECHA:02-02-26
+SEDE:Los olivos
+ASESOR:Elmer Jurado
+CLIENTE:Josue Ramos Caicho
+DNI:72975686
+TELEFONO:999123456
+DIRECCION:Calle los palmos 1234 la victoria
+MODELO:Honda CB190R
+PRECIO:9500.0
+CANTIDAD:2
+IMPORTE_PAGAR:17575.0
+OBSEQUIO:Guantes
+==========================================
